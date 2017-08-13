@@ -33,6 +33,11 @@ h1 {
 .panel-indent {
     margin-left: 30px;
 }
+.panda {
+    width: 60%;
+    height: auto;
+    background-size: contain;
+}
 .image-center {
     display: block;
     margin: auto;
