@@ -1,4 +1,4 @@
-/*import { browser, element, by } from 'protractor';
+import { browser, element, by } from 'protractor';
 
 describe('QuickStart E2E Tests', function () {
 
@@ -12,4 +12,4 @@ describe('QuickStart E2E Tests', function () {
     expect(element(by.css('h1')).getText()).toEqual(expectedMsg);
   });
 
-});*/
+});
